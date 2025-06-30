@@ -64,11 +64,6 @@ $ npm start
 - Run http://localhost:3000/products
 - Click create product and enter product info
 
-## Support
-
-- Q/A: https://webacademy.pro/oldamazona
-- Contact Instructor: [Basir](mailto:basir.jafarzadeh@gmail.com)
-
 
 ## Summary
 
